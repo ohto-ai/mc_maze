@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+myenv/
+
+# 生成的大型中间数据（可用 --generate-map 重新生成）
+*.npz
